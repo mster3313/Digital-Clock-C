@@ -7,5 +7,5 @@ Compilation :
           gcc -o digital_clock clock.c 
 
 Running : 
-          ./digital_clock
+          ./digital_clock  
           ./digital_clock -C [black|red|green|yellow|blue|magenta|cyan|white]
