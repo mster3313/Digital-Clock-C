@@ -1,5 +1,5 @@
 # Digital-Clock-C
-A simple digital clock implemented using C language. Using -C option clock can have different colours. 
+A simple digital terminal clock implemented using C language. Using -C option clock can have different colours. 
 
 ## On Linux
 
